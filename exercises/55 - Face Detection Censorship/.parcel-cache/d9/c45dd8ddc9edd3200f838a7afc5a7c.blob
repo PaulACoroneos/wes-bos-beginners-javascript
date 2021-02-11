@@ -1,0 +1,3 @@
+const webcam = document.querySelector('.webcam');
+const video = document.querySelector('.video');
+const face = document.querySelector('.face');
